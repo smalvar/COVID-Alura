@@ -12,27 +12,27 @@ Este curso visa abordar alguns conceitos de séries temporais utilizando dados d
 
 ### Conteúdo Detalhado
 
-**Explorando os dados
+#### Explorando os dados
 
-  - Análise exploratória inicial
-  - Crescimento exponencial
-  - Transformada logarítmica
+    - Análise exploratória inicial
+    - Crescimento exponencial
+   - Transformada logarítmica
   
 **Aceleração dos dados e recuperados
 
-- Analisando os casos recuperados
-- Criando funções para análise exploratória
-- Aceleração de óbitos e casos
-- Média móvel e subnotificação
+  - Analisando os casos recuperados
+  - Criando funções para análise exploratória
+  - Aceleração de óbitos e casos
+  - Média móvel e subnotificação
 
 **Correlação e autocorrelação
 
-- Explicando os conceitos
-- Correlação e óbitos
-- Autocorrelação da média e da aceleração
+  - Explicando os conceitos
+  - Correlação e óbitos
+  - Autocorrelação da média e da aceleração
 
 **Falando de sazonalidade
 
-- O que é sazonalidade?
-- Criando variáveis
-- Plotando novas variáveis
+  - O que é sazonalidade?
+  - Criando variáveis
+  - Plotando novas variáveis
