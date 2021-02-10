@@ -33,11 +33,15 @@ Este curso visa abordar alguns conceitos de séries temporais utilizando dados d
 #### Correlação e autocorrelação
 
   > Explicando os conceitos
+  
   > Correlação e óbitos
+  
   > Autocorrelação da média e da aceleração
 
 #### Falando de sazonalidade
 
   > O que é sazonalidade?
+  
   > Criando variáveis
+  
   > Plotando novas variáveis
