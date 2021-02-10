@@ -4,7 +4,7 @@ Este curso visa abordar alguns conceitos de séries temporais utilizando dados d
 
 ### Faça esse curso de Data Science e:
 
-- Aprenda como visualizar séries temporais
+> Aprenda como visualizar séries temporais
 - Crie funções para facilitar o trabalho de visualização
 - Aprenda o que significa média móvel e para que ela serve
 - Calcule autocorrelação e entenda o que isso significa
