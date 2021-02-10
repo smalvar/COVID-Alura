@@ -15,14 +15,19 @@ Este curso visa abordar alguns conceitos de séries temporais utilizando dados d
 #### Explorando os dados
 
   > Análise exploratória inicial
+  
   > Crescimento exponencial
+  
   > Transformada logarítmica
   
 #### Aceleração dos dados e recuperados
 
   > Analisando os casos recuperados
+  
   > Criando funções para análise exploratória
+  
   > Aceleração de óbitos e casos
+  
   > Média móvel e subnotificação
 
 #### Correlação e autocorrelação
